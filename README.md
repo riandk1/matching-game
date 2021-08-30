@@ -1,5 +1,5 @@
 <h1 align="center">
-Matching Game Coding Theme
+Matching Game - Coding Theme
 </h1>
 
  <div>
@@ -11,7 +11,7 @@ Matching Game Coding Theme
   
   ### Desktop Version
   <div align="center">
-  <img src="./assets/desktop_version.gif" alt="demo-web" height="425">
+  <img src="./images/desktop_version.gif" alt="demo-web" height="425">
   </div>
 
 <hr />
